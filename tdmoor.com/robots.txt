@@ -1,0 +1,5 @@
+Sitemap: https://tdmoor.com/sitemap.xml
+Sitemap: https://tdmoor.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
